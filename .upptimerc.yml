@@ -22,8 +22,8 @@ status-website:
   #baseUrl: /severus
   logoUrl: https://revivaltv.s3.ap-southeast-1.amazonaws.com/rvl-logo.png
   name: Severus
-  introTitle: "**Severus** RevivalTV's servers status monitoring."
-  introMessage: "Powered by **GitHub** & **Upptime** https://upptime.js.org."
+  introTitle: ""
+  introMessage: "RevivalTV's services status monitoring."
   navbar:
     - title: Status
       href: /
