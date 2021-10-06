@@ -6,28 +6,27 @@ sites:
   - name: Portal
     url: https://www.revivaltv.id
   - name: RevivalPedia
-    url: https://revivalpedia.com/version
+    url: https://revivalpedia.com
   - name: RevivalPedia API
     url: https://api.revivalpedia.com
   - name: Livescore
-    url: https://livescore.revivaltv.id
-  - name: Account
-    url: https://account.revivaltv.id/admin
+    url: https://livescore.revivaltv.id/api/tournaments
+  - name: Beta RevivalTV
+    url: https://beta.revivaltv.id
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: night
   baseUrl: /severus
   logoUrl: https://revivaltv.s3.ap-southeast-1.amazonaws.com/rvl-logo.png
   name: Severus
-  introTitle: "**Severus** server status monitoring."
-  introMessage: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Severus** RevivalTV's servers status monitoring."
+  introMessage: "Powered by **GitHub** & **Upptime** https://upptime.js.org."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
