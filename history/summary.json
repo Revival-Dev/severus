@@ -4,19 +4,19 @@
     "url": "https://www.revivaltv.id",
     "icon": "https://favicons.githubusercontent.com/www.revivaltv.id",
     "slug": "portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2020,
-    "timeDay": 2884,
-    "timeWeek": 2020,
-    "timeMonth": 2020,
-    "timeYear": 2020,
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
+    "time": 1964,
+    "timeDay": 2172,
+    "timeWeek": 1964,
+    "timeMonth": 1964,
+    "timeYear": 1964,
     "dailyMinutesDown": {
-      "2021-10-10": 0
+      "2021-10-10": 13
     }
   },
   {
