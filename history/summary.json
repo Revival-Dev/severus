@@ -45,18 +45,20 @@
     "url": "https://api.revivalpedia.com",
     "icon": "https://favicons.githubusercontent.com/api.revivalpedia.com",
     "slug": "revival-pedia-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 649,
-    "timeDay": 565,
-    "timeWeek": 618,
-    "timeMonth": 664,
-    "timeYear": 649,
-    "dailyMinutesDown": {}
+    "time": 648,
+    "timeDay": 574,
+    "timeWeek": 613,
+    "timeMonth": 662,
+    "timeYear": 648,
+    "dailyMinutesDown": {
+      "2021-11-29": 0
+    }
   },
   {
     "name": "Livescore",
