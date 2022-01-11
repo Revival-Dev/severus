@@ -84,19 +84,19 @@
     "url": "https://beta.revivaltv.id",
     "icon": "https://favicons.githubusercontent.com/beta.revivaltv.id",
     "slug": "beta-revival-tv",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1713,
-    "timeDay": 2151,
-    "timeWeek": 2101,
-    "timeMonth": 1611,
-    "timeYear": 1713,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1719,
+    "timeDay": 2186,
+    "timeWeek": 2120,
+    "timeMonth": 1631,
+    "timeYear": 1719,
     "dailyMinutesDown": {
-      "2022-01-11": 13
+      "2022-01-11": 0
     }
   }
 ]
