@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 3055,
-    "timeDay": 1501,
-    "timeWeek": 1676,
-    "timeMonth": 2243,
-    "timeYear": 3055,
+    "time": 3042,
+    "timeDay": 1551,
+    "timeWeek": 1707,
+    "timeMonth": 2196,
+    "timeYear": 3042,
     "dailyMinutesDown": {
       "2022-01-07": 18,
       "2021-10-27": 16,
@@ -34,11 +34,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1393,
-    "timeDay": 2496,
-    "timeWeek": 1539,
-    "timeMonth": 1462,
-    "timeYear": 1393,
+    "time": 1395,
+    "timeDay": 1586,
+    "timeWeek": 1601,
+    "timeMonth": 1466,
+    "timeYear": 1395,
     "dailyMinutesDown": {}
   },
   {
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 653,
-    "timeDay": 611,
-    "timeWeek": 657,
-    "timeMonth": 660,
+    "timeDay": 682,
+    "timeWeek": 672,
+    "timeMonth": 662,
     "timeYear": 653,
     "dailyMinutesDown": {
       "2021-11-29": 25
@@ -73,8 +73,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 789,
-    "timeDay": 729,
-    "timeWeek": 793,
+    "timeDay": 811,
+    "timeWeek": 811,
     "timeMonth": 784,
     "timeYear": 789,
     "dailyMinutesDown": {}
@@ -85,18 +85,19 @@
     "icon": "https://favicons.githubusercontent.com/beta.revivaltv.id",
     "slug": "beta-revival-tv",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.97%",
-    "time": 1731,
-    "timeDay": 2252,
-    "timeWeek": 2164,
-    "timeMonth": 1673,
-    "timeYear": 1731,
+    "uptime": "99.88%",
+    "uptimeDay": "88.58%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.88%",
+    "time": 1723,
+    "timeDay": 2206,
+    "timeWeek": 2032,
+    "timeMonth": 1631,
+    "timeYear": 1723,
     "dailyMinutesDown": {
-      "2022-01-11": 37
+      "2022-01-12": 68,
+      "2022-01-11": 97
     }
   }
 ]
